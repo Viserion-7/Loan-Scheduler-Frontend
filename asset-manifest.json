@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loan-schedule-frontend/static/css/main.773ec103.css",
+    "main.js": "/loan-schedule-frontend/static/js/main.b640b69b.js",
+    "static/js/453.90458592.chunk.js": "/loan-schedule-frontend/static/js/453.90458592.chunk.js",
+    "index.html": "/loan-schedule-frontend/index.html",
+    "main.773ec103.css.map": "/loan-schedule-frontend/static/css/main.773ec103.css.map",
+    "main.b640b69b.js.map": "/loan-schedule-frontend/static/js/main.b640b69b.js.map",
+    "453.90458592.chunk.js.map": "/loan-schedule-frontend/static/js/453.90458592.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773ec103.css",
+    "static/js/main.b640b69b.js"
+  ]
+}
