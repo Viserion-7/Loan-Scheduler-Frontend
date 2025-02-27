@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loan-schedule-frontend/static/css/main.773ec103.css",
-    "main.js": "/loan-schedule-frontend/static/js/main.b640b69b.js",
-    "static/js/453.90458592.chunk.js": "/loan-schedule-frontend/static/js/453.90458592.chunk.js",
-    "index.html": "/loan-schedule-frontend/index.html",
-    "main.773ec103.css.map": "/loan-schedule-frontend/static/css/main.773ec103.css.map",
-    "main.b640b69b.js.map": "/loan-schedule-frontend/static/js/main.b640b69b.js.map",
-    "453.90458592.chunk.js.map": "/loan-schedule-frontend/static/js/453.90458592.chunk.js.map"
+    "main.css": "/Loan-Scheduler-Frontend/static/css/main.773ec103.css",
+    "main.js": "/Loan-Scheduler-Frontend/static/js/main.b58f5482.js",
+    "static/js/453.90458592.chunk.js": "/Loan-Scheduler-Frontend/static/js/453.90458592.chunk.js",
+    "index.html": "/Loan-Scheduler-Frontend/index.html",
+    "main.773ec103.css.map": "/Loan-Scheduler-Frontend/static/css/main.773ec103.css.map",
+    "main.b58f5482.js.map": "/Loan-Scheduler-Frontend/static/js/main.b58f5482.js.map",
+    "453.90458592.chunk.js.map": "/Loan-Scheduler-Frontend/static/js/453.90458592.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.773ec103.css",
-    "static/js/main.b640b69b.js"
+    "static/js/main.b58f5482.js"
   ]
 }
