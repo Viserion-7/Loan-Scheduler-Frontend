@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Viserion-7.github.io/loan-schedule-frontend",
+  "homepage": "https://viserion-7.github.io/Loan-Scheduler-Frontend/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
